@@ -1,0 +1,24 @@
+
+:root {
+    --main-background:  hsl(268, 75%, 9%);
+    --screen-background: hsl(268, 71%, 12%);
+    --keyboard-background: hsl(268, 71%, 12%);
+
+    --container-text-color: #fff;
+    --btnbgcolor: hsl(268, 47%, 21%);
+    --btnbgshadowcolor: hsl(290, 70%, 36%);
+    --delbtncolor: hsl(281, 89%, 26%);
+    --delbtnshadowcolor: hsl(285, 91%, 52%);
+    --btnColor: hsl(52, 100%, 62%);
+    --evalcolor: hsl(176, 100%, 44%);
+    --evalshadowColor: hsl(177, 92%, 70%);
+}
+.container {
+    color: var(--btnColor);
+}
+header .theme-bar .orange-btn {
+    left: 60%;
+}
+#eval {
+    color: var(--container-text-color);
+}
