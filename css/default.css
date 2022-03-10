@@ -195,6 +195,8 @@ header .theme-bar .orange-btn {
     font-size: 15px !important;
 }
 
+
+
 @media screen and (max-width: 420px) {
     html, body {
         align-items: flex-start;
@@ -222,6 +224,7 @@ header .theme-bar .orange-btn {
         width: 144px;
     }
 }
+
 @media screen and (max-width: 370px) {
     .calculator {
         height: 420px;
@@ -235,5 +238,14 @@ header .theme-bar .orange-btn {
     }
     #reset, #eval {
         width: 107px;
+    }
+}
+@media screen and (width: 360px) {
+    .calculator .keyboard button {
+        width: 57px;
+        height: 47px;
+    }
+    #reset, #eval {
+        width: 127px;
     }
 }
