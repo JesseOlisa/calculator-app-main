@@ -115,6 +115,10 @@ header .theme-number-container {
     width: 100%;
     text-align: center;
 }
+header .theme-number-container p:hover {
+    transform: scale(1.5);
+    cursor: pointer;
+}
 header .theme p {
     margin-right: 5px;
 }
@@ -192,6 +196,9 @@ header .theme-bar .orange-btn {
 }
 
 @media screen and (max-width: 420px) {
+    html, body {
+        height: 100%;
+    }
     .container {
         margin-bottom: 50px;
     }
