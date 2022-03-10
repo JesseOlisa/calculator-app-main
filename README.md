@@ -30,14 +30,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Frontend-Mentor-Calculator-app-screenshot.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/JesseOlisa/calculator-app-main]
+- Live Site URL: [https://jesseolisa.github.io/calculator-app-main/]
 
 ## My process
 
@@ -65,12 +65,11 @@ So, going forward i will continue to enhance my skills in Javascript to continue
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/JesseOlisa]
+- Twitter - [https://www.twitter.com/yourusername/jesseOlisa]
 
 
 ## Acknowledgments
 
-Justin Kim - Your tutorial video really helped me alot.
+Justin Kim - Your tutorial video really helped me alot. Thank you!
 

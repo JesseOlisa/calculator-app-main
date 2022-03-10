@@ -92,6 +92,7 @@ header .theme-container:before {
     border-radius: 5px;
     animation: opacity 2s 4s forwards;
     color: #fff;
+    font-size: 10px;
     
 }
 @keyframes opacity {
