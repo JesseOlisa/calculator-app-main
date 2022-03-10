@@ -197,10 +197,10 @@ header .theme-bar .orange-btn {
 
 @media screen and (max-width: 420px) {
     html, body {
-        height: 100%;
+        align-items: flex-start;
     }
     .container {
-        margin-bottom: 50px;
+        margin-top: 20px;
     }
     .calculator {
         width: 100%;
